@@ -1,6 +1,6 @@
 (function(doc) {
 
-  log = noop; // noOp, remove this line to enable debugging
+  //log = noop;  noOp, remove this line to enable debugging
 
   var coordinateSystemForElementFromPoint;
 
